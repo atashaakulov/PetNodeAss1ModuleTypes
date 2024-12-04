@@ -1,0 +1,3 @@
+Line 1 of file7: - Start here: readme7 file contains overall 3 lines
+Line 2 of file7: This is a very long line intended to test how the program handles files with lines that might exceed typical buffer sizes. This should not cause any issues if the program splits lines correctly.
+Line 3 of file7: Another exceptionally long line for testing the robustness of the program. Ensure that the output remains clear and not truncated unnecessarily.
